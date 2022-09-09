@@ -28,4 +28,4 @@ This file further aggregates the LCIA results from processes into life cycle sta
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
 
->Tao, Y.; You, F., Second life and recycling: energy and environmental sustainability perspectives for high-performance lithium-ion batteries, Submitted to Nature Sustainability.
+>Tao, Y., Heidrich, O. & You, F.* (2022), Energy and environmental prospects of bolstering a resilient EV battery value chain for the US, submitted to Nature Sustainability.
