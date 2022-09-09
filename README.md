@@ -1,8 +1,8 @@
 # LIB_Supply-Chain
 This study investigates the environmental and economic benefits of second life and recycling across three promising lithium-ion batteries. There are three folders under this repository:
 1. Characterization factors
-2. LCIA results
-3. Sensitivity analysis
+2. LCI
+3. LCIA results
 
 ## 1. Characterization factors
 There are 7 excel files in this folder, representing characterization factors for the pre-pandemic power grid configuration in 2019 and power grid projection in 2025, 2030, 2035, 2040, 2045, and 2050. 
