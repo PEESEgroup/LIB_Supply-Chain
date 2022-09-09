@@ -1,5 +1,5 @@
 # LIB_Supply-Chain
-This study examine the long-term energy and sustainability prospects of the current trend towards bolstering a secure and resilient midstream and downstream value chain of EV batteries for the US. There are three folders under this repository:
+This study examines the long-term energy and sustainability prospects of the current trend towards bolstering a secure and resilient midstream and downstream value chain of EV batteries for the US. There are three folders under this repository:
 1. Characterization factors
 2. LCI
 3. LCIA results
