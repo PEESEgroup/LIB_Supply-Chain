@@ -29,4 +29,4 @@ This file further aggregates the LCIA results from processes into life cycle sta
 Please use the following citation when using the data, methods or results of this work:
 
 Tao, Y., & You, F.* (2022), Will reshoring electric vehicle battery manufacturing support renewable energy transition and climate targets?
-submitted to Science Advances
+submitted to *Science Advances*
