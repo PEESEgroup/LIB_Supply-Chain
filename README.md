@@ -27,7 +27,6 @@ This file further aggregates the LCIA results from processes into life cycle sta
 
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
-> Lal, A., & You, F.* (2022), Will reshoring electric vehicle battery manufacturing support renewable energy transition and climate targets?
-submitted to *Science Advances*
+> Lal, A., & You, F.* (2022), Will reshoring electric vehicle battery manufacturing support renewable energy transition and climate targets? *Science Advances*, 9, adg6740
 >
 > [![DOI](https://zenodo.org/badge/478816911.svg)](https://zenodo.org/badge/latestdoi/478816911)
